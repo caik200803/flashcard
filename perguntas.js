@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que significa a palavra "syntax" em programação?',
+    'Syntax é a forma como os comandos e instruções são organizados em uma linguagem de programação.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a maior cidade do mundo em termos de população?',
+    'A maior cidade do mundo em termos de população é Tóquio, no Japão.'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é uma variável?',
+    'Uma variável é um espaço na memória onde você pode armazenar valores que podem mudar durante a execução do programa.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz “obrigado” em inglês?',
+    'Obrigado em inglês é "Thank you" (thæŋk juː).'
 )
